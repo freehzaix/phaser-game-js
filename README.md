@@ -9,4 +9,4 @@
 -   Ensuite exécutez le projet avec votre navigateur web http://localhost/phaser-game-js/ pour voir le jeu
 
 ### Auteur
--   Jean-Luc DOH
+-   [Jean-Luc DOH](https://www.youtube.com/@freehzaix)
