@@ -1,6 +1,6 @@
 # Projet Mini Jeu Web en JS avec Phaser3
 
-![Screenshot](screenshot.png)
+[![Screenshot](screenshot.png)](https://www.youtube.com/@freehzaix)
 
 ## Instruction à suivre pour l'exécution
 
